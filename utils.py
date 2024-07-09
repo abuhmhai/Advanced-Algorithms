@@ -1,8 +1,9 @@
+
 import numpy as np
 
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
-plt.style.use('./deeplearningstyle.mplstyle')
+plt.style.use('./deeplearning.mplstyle')
 
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
