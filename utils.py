@@ -3,7 +3,7 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('./deeplearningstyle.mplstyle')
 
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
